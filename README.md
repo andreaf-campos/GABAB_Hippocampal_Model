@@ -8,6 +8,11 @@
 *July, 2020.*
 
 ---
+### Languages Used
+
+![Julia](https://img.shields.io/badge/Language-Julia-purple?style=for-the-badge&logo=julia)
+
+---
 
 ### **Overview**
 This repository contains the **Julia-based computational model and simulation scripts** used to study the role of **GABAergic synaptic currents** in modulating neuronal firing patterns in hippocampal microcircuits. The study focuses on how **GABA<sub>B</sub>** currents influence the generation of **spike-and-wave oscillations (SW)** associated with absence epilepsy.
